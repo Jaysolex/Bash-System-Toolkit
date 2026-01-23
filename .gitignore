@@ -1,0 +1,12 @@
+# Generated data
+backups/
+logs/
+data/
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
